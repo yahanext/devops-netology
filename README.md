@@ -12,3 +12,4 @@ first line
 Файлы .terrafomrc и terraform.rc
 ####
 
+New line odnako
